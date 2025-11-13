@@ -17,6 +17,7 @@
 * [**CustomWorldHeight**](https://github.com/Lumine1909/CustomWorldHeight): A Paper(Bukkit) plugin for advanced world height configuration.
 * [**PaperBlockTuner**](https://github.com/Lumine1909/PaperBlockTuner): A Paper(Bukkit) plugin that helps player tuning to note blocks efficiently.
 * [**NoPacketBan**](https://github.com/Lumine1909/NoPacketBan): A Paper(Bukkit) plugin that prevent player from being packet kicked.
+* [**OfflineEncryptor**](https://github.com/Lumine1909/OfflineEncryptor): A Paper(Bukkit) plugin that provides encryption for offline players.
 ---
 
 #### 📫 Contact
@@ -34,12 +35,9 @@
 <details>
   <summary>🌟 Check out one of my favorite projects...</summary>
 
-### [RegistryLib](https://github.com/Lumine1909/RegistryLib)
+### [Reflexion](https://github.com/Lumine1909/Reflexion)
 
-A powerful utility library for working with Minecraft registries:
-
-* Supports dynamic registration, registry events, and even hot-reload for players.
-* Built with the latest techniques I’ve learned—I'm proud of it and plan to continue improving it.
+A fast implementation library for Java reflection.
 
 </details>
 
