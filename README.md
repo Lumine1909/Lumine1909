@@ -11,7 +11,7 @@
 #### 🔭 Current Projects
 
 * [**Leaves**](https://github.com/LeavesMC/Leaves): A Minecraft server implementation supporting Bukkit plugins and technical survival features.
-* [**LeavesAddons**](https://github.com/LeavesMC/LeavesAddons): A Leaves(Bukkit) plugin that provide plugin-side feature of Leaves server.
+* [**LeavesAddons**](https://github.com/Lumine1909/LeavesAddons): A Leaves(Bukkit) plugin that provide plugin-side feature of Leaves server.
 * [**CustomBiomeColors**](https://github.com/Lumine1909/CustomBiomeColors_Continue): A Paper(Bukkit) plugin for customizing biome colors.
 * [**WeCuiFix**](https://github.com/Lumine1909/WeCuiFix): A Fabric mod that make WorldEdit compatible with WorldEditCUI.
 * [**CustomWorldHeight**](https://github.com/Lumine1909/CustomWorldHeight): A Paper(Bukkit) plugin for advanced world height configuration.
