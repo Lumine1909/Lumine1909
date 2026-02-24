@@ -18,6 +18,7 @@
 * [**PaperBlockTuner**](https://github.com/Lumine1909/PaperBlockTuner): A Paper(Bukkit) plugin that helps player tuning to note blocks efficiently.
 * [**NoPacketBan**](https://github.com/Lumine1909/NoPacketBan): A Paper(Bukkit) plugin that prevent player from being packet kicked.
 * [**OfflineEncryptor**](https://github.com/Lumine1909/OfflineEncryptor): A Paper(Bukkit) plugin that provides encryption for offline players.
+* [**SVSM**](https://github.com/Lumine1909/SVSM): A plugin that can keep your server and server connections alive while using suspend IDEA breakpoints.
 ---
 
 #### 📫 Contact
