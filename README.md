@@ -4,7 +4,7 @@
 
 🧠 Feel free to reach out if you have questions about anything related!
 
-🌱 Currently exploring Java, Python, and Assembly to broaden my programming skills.
+🌱 Currently exploring Java, C, and Assembly to broaden my programming skills.
 
 ---
 
