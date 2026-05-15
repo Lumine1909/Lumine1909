@@ -38,7 +38,7 @@
 
 ### [Reflexion](https://github.com/Lumine1909/Reflexion)
 
-A "fast" and "powerful" implementation library for Java reflection.
+A "fast" and "powerful" lightweight Java reflection library.
 
 </details>
 
