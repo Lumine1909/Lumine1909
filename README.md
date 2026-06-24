@@ -6,6 +6,8 @@
 
 🌱 Currently exploring Java, C, and Assembly to broaden my programming skills.
 
+📝 Feel free to [check out my personal blog](https://lumine1909.github.io/) for some interesting reads...
+
 ---
 
 #### 🔭 Current Projects
