@@ -32,7 +32,7 @@
 
 #### 📈 GitHub Stats
 
-![Lumine1909's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lumine1909&show_icons=true&theme=dark)
+![Lumine1909's GitHub Stats](https://github-stats-extended.vercel.app/api?username=Lumine1909&show_icons=true&theme=dark)
 
 ------
 <details>
